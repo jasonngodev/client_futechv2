@@ -661,5 +661,13 @@
   "Download attachment": "Download attachment",
   "Customer name":"Customer name",
   "Report company":"Report company",
-  "Primary":"Primary"
+  "Primary":"Primary",
+  "Promotion":"Promotion",
+  "Issue bill":"Issue bill",
+  "Submit":"Submit",
+  "Order":"Order",
+  "Request template":"Request template",
+  "Total of sample":"Total of sample",
+  "Total of parameter":"Total of parameter",
+  "Sample nature":"Sample nature"
 }

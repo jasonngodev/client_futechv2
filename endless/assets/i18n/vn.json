@@ -661,5 +661,13 @@
   "Download attachment": "Tải tập tin đính kèm",
   "Customer name": "Tên khách hàng",
   "Report company":"Công ty kết quả",
-  "Primary":"Ưu tiên"
+  "Primary":"Ưu tiên",
+  "Promotion":"Khuyến mãi",
+  "Issue bill":"Phát hành hóa đơn",
+  "Submit":"Gửi",
+  "Order":"Thứ tự",
+  "Request template":"Mẫu yêu cầu",
+  "Total of sample":"Tổng số mẫu",
+  "Total of parameter":"Tổng số chỉ tiêu",
+  "Sample nature":"Bản chất mẫu"
 }
