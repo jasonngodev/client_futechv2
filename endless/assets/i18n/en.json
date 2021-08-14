@@ -678,5 +678,11 @@
   "Related task":"Related task",
   "Detail":"Detail",
   "Information1":"Information",
-  "Showing":"Showing"
+  "Showing":"Showing",
+  "No Data":"No Data",
+  "records":"records",
+  "List of ticket opend by users":"List of ticket opend by users",
+  "Total Tickets":"Total Tickets",
+  "Resolve":"Resolve",
+  "Subject":"Subject"
 }
